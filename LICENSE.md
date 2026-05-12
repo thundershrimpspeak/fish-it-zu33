@@ -1,4 +1,4 @@
-#  
+#  secret Script for fish it offers the most advanced fish it Script, with auto-collect and fly. Perfect for dominating any match.
 
 
 
